@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# こんにちわ!
 
 ## "Gamers/Developers are the most opressed race in the world"
 
