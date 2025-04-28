@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **NyanPanDev/NyanPanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## "Gamers/Developers are the most opressed race in the world"
 
+### Java expert, specializing in network services with a background in cloud native deployments
+
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NyanPanDev&show_icons=true&locale=en&layout=compact&hide=html,css,xslt" alt="NyanPanDev" />
 <img height=165 src="https://github-readme-stats.vercel.app/api?username=NyanPanDev&show_icons=true" alt="NyanPanDev" />
+</p>
 
 <p><img src="https://api.moedog.org/count/@NyanPanDev_readme?theme=rule34" alt="NyanPanDev" /></p>
