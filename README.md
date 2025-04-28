@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## "Gamers/Developers are the most oppressed race in the world"
 
-### Java expert, specializing in network services with a background in cloud native deployments
+### Senior SWE, Java expert, specializing in network services with a background in cloud native deployments
 <p>...but I'll never submit a line of Java code outside of work environments.</p>
 
 
