@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NyanPanDev&show_icons=true&locale=en&layout=compact&hide=html,css,xslt" alt="NyanPanDev" />
+<img height=165 src="https://github-readme-stats.vercel.app/api?username=NyanPanDev&show_icons=true" alt="NyanPanDev" />
+
+<p><img src="https://api.moedog.org/count/@NyanPanDev_readme?theme=rule34" alt="NyanPanDev" /></p>
