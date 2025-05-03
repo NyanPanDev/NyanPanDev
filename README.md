@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 # こんにちわ!
 
-## "Gamers/Developers are the most oppressed race in the world"
+## "Gamers are the most oppressed minority in the world"
 
 ### Senior SWE, Java expert, specializing in network services with a background in cloud native deployments
-<p>...but I'll never submit a line of Java code outside of work environments.</p>
 
 
 #### Known Languages/Frameworks:
