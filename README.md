@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 # こんにちわ!
 
-## "Gamers are the most oppressed minority in the world"
-
 ### Senior SWE, Java expert, specializing in network services with a background in cloud native deployments
 
 
