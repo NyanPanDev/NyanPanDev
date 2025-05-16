@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # こんにちわ!
 
-### Senior SWE, Java expert, specializing in network services with a background in cloud native deployments
+### Senior SWE/Java expert. Specializing in network services with a background in cloud native deployments.
 
 
 #### Known Languages/Frameworks:
