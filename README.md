@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 ### Senior SWE
 
 
+#### Links
+
+* Itch: https://nyanpandev.itch.io/
+* For Queries/Requests: NyanPanDev@proton.me
+
+
 #### Known Languages/Frameworks:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
