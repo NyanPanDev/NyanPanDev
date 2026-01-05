@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # こんにちわ!
 
-### Senior SWE / スーパーゲーマー
+### Senior SWE
 
 
 #### Links
