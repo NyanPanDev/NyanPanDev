@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # こんにちわ!
 
-### Senior SWE
+### Senior Full-Stack Software Engineer
 
 
 #### Links
