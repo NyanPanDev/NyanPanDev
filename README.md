@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 # こんにちわ!
 
 ### Senior Full-Stack Software Engineer
+#### Amateur game developer & アニメオタク
 
 
 #### Links
