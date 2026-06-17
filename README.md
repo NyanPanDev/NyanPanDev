@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 #### Links
 
 * Itch: https://nyanpandev.itch.io/
-* For Queries/Requests: NyanPanDev@proton.me
 
 
 #### Known Languages/Frameworks:
